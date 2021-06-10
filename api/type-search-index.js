@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ExpertSystem"},{"p":"gui","l":"InitScreen"},{"p":"controller","l":"InitScreenController"},{"p":"gui","l":"MainScreen"},{"p":"controller","l":"MainScreenController"},{"p":"expert","l":"PrologJavaRunner"}]
