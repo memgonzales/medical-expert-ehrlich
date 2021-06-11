@@ -7,3 +7,12 @@
 
 ## Task
 The 15 autoimmune diseases included in the knowledge base of this project are as follows: Addison disease, dermatomyositis, Hashimoto thyroiditis, multiple sclerosis, Crohn’s disease, Grave’s disease, myasthenia gravis, pernicious anemia, reactive arthritis, Sjögren syndrome, lupus, rheumatoid arthritis, type I diabetes, celiac disease, and alopecia areata.
+
+## Authors
+- <b>Mark Edward M. Gonzales</b> <br/>
+  mark_gonzales@dlsu.edu.ph <br/>
+  gonzales.markedward@gmail.com <br/>
+  
+- <b>Hylene Jules G. Lee</b> <br/>
+  hylene_jules_lee@dlsu.edu.ph <br/>
+  lee.hylene@gmail.com
