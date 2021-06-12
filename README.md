@@ -25,6 +25,11 @@ Besides the <a href = "https://github.com/memgonzales/medical-expert-ehrlich/blo
 - <a href = "https://github.com/memgonzales/medical-expert-ehrlich/blob/master/Technical%20Report.pdf"><code>Technical Report.pdf</code></a> - Formal discussion of the knowledge base, underlying algorithm, and behavior of the system
 - <a href = "https://github.com/memgonzales/medical-expert-ehrlich/blob/master/Demo%20File.pdf"><code>Demo File.pdf</code></a> - Instructions for using EHRLICH and screenshots of the running system
 
+## Built Using
+The project was built using **Java** following the Model-View-Controller (MVC) architectural pattern, with the <code>.class</code> files generated via **Java SE Development Kit 14**. The graphical user interface was created using **Swing**, a platform-independent toolkit that is part of the Java Foundation Classes.
+
+The knowledge base was written in **Prolog** (with **SWI-Prolog** as the particular implementation). The open-source library <a href = "https://jpl7.org/">**JPL 7**</a>, released under the Simplified BSD License and bundled with a SWI-Prolog installation, provided the classes and functions for the bidirectional interface between Java and Prolog.
+
 ## Authors
 - <b>Mark Edward M. Gonzales</b> <br/>
   mark_gonzales@dlsu.edu.ph <br/>
