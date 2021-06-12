@@ -3,7 +3,7 @@
 
 ***DISCLAIMER: The goal of this project is to explore the possibility of employing backward chaining in the implementation of medical expert systems that are able to handle uncertainty. Although care has been taken to consult technical sources, this system is ultimately subject to a closed-world assumption and to the limited size of its knowledge base.***
 
-***Therefore, it is NOT intended to be used for real-world or professional diagnosis.***
+***Therefore, it is not intended to be used &mdash; and should not be used &mdash; for real-world or professional diagnosis.***
 
 ## Task
 **EHRLICH** is the major course output for an introduction to intelligent systems class. The task is to create an expert system that is able to diagnose at least 10 diseases affecting a particular body system. The knowledge base has to be written in the **logic programming language Prolog**, and the system has to employ **backward chaining** as its primary inference method. The rules should consist solely of symptoms that can be observed or identified by the patient to a certain degree prior to laboratory analysis.
@@ -28,4 +28,6 @@ The project consists of three folders:
   
 - <b>Hylene Jules G. Lee</b> <br/>
   hylene_jules_lee@dlsu.edu.ph <br/>
-  lee.hylene@gmail.com
+  lee.hylene@gmail.com <br/>
+  
+**In no event shall the authors and their affiliations be liable to any party for direct, indirect, special, incidental, or consequential damages arising out of the use of this software and its documentation, even if advised of the possibility of such damage.**
