@@ -39,4 +39,4 @@ The knowledge base was written in **Prolog** (with **SWI-Prolog** as the particu
   hylene_jules_lee@dlsu.edu.ph <br/>
   lee.hylene@gmail.com <br/>
   
-**In no event shall the authors and their affiliations be liable to any party for direct, indirect, special, incidental, or consequential damages arising out of the use of this software and its documentation, even if advised of the possibility of such damage.**
+**In no event shall the authors and their affiliates be liable to any party for direct, indirect, special, incidental, or consequential damages arising out of the use of this software and its documentation, even if advised of the possibility of such damage.**
