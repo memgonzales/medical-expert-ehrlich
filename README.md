@@ -21,6 +21,10 @@ The project consists of three folders:
 - <a href = "https://github.com/memgonzales/medical-expert-ehrlich/tree/master/out"><code>out</code></a> - <code>.class</code> files
 - <a href = "https://github.com/memgonzales/medical-expert-ehrlich/tree/master/src"><code>src</code></a> - <code>.java</code> files (source codes)
 
+Besides the <a href = "https://github.com/memgonzales/medical-expert-ehrlich/blob/master/Medical%20Expert%20System.jar"><code>Medical Expert System.jar</code></a> file, it also includes the following documents:
+- <a href = "https://github.com/memgonzales/medical-expert-ehrlich/blob/master/Technical%20Report.pdf"><code>Technical Report.pdf</code></a> - Formal discussion of the knowledge base, underlying algorithm, and behavior of the system
+- <a href = "https://github.com/memgonzales/medical-expert-ehrlich/blob/master/Demo%20File.pdf"><code>Demo File.pdf</code></a> - Instructions for using EHRLICH and screenshots of the running system
+
 ## Authors
 - <b>Mark Edward M. Gonzales</b> <br/>
   mark_gonzales@dlsu.edu.ph <br/>
