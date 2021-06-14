@@ -12,9 +12,17 @@ The **15 autoimmune diseases** included in the knowledge base of EHRLICH are as 
 
 The program initially asks for the patient's information to rule out certain age- and sex-specific conditions and to determine the normal thresholds for medical statistics (such as heart rate).
 
+<img src="https://github.com/memgonzales/medical-expert-ehrlich/blob/master/system_screenshots/1.PNG?raw=True" alt="Initialization Screen" width = 500> 
+
 For the diagnosis, it adapts <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2464549/pdf/procascamc00015-0074.pdf">MYCIN</a>-style calculations to admit uncertainty to an extent. To reduce the length of probing, a disease is ruled out once the certainty level falls below 0.2. Meanwhile, if a disease registers a certainty level of at least 0.9, a diagnosis is immediately given, thus terminating the inquiry process. The screenshots below show parts of the diagnosis:
 
+<img src="https://github.com/memgonzales/medical-expert-ehrlich/blob/master/system_screenshots/2.PNG?raw=True" alt="Yes-No Question" width = 500> 
+
+<img src="https://github.com/memgonzales/medical-expert-ehrlich/blob/master/system_screenshots/3.PNG?raw=True" alt="Open-Ended Question" width = 500> 
+
 There are two special cases handled by the system. First, if none of the diseases in the knowledge base satisfy the 0.2 threshold, it refers the patient to a larger medical facility for a more thorough diagnosis. Second, if the patient reports a symptom that is indicative of an emergency, EHRLICH explicitly displays an alert message, and, per the task specifications, a diagnosis is compulsorily given along with the certainty level.
+
+<img src="https://github.com/memgonzales/medical-expert-ehrlich/blob/master/system_screenshots/4.PNG?raw=True" alt="Emergency" width = 500> 
 
 The project consists of three folders:
 - <a href = "https://github.com/memgonzales/medical-expert-ehrlich/tree/master/api"><code>api</code></a> - <code>Javadoc</code> documentation of this project
