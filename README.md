@@ -6,7 +6,7 @@
 ***Therefore, it is not intended to be used &mdash; and should not be used &mdash; for real-world or professional diagnosis.***
 
 ## Task
-**EHRLICH** is the major course output for an introduction to intelligent systems class. The task is to create an expert system that is able to diagnose at least 10 diseases affecting a particular body system. The knowledge base has to be written in the **logic programming language Prolog**, and the system has to employ **backward chaining** as its primary inference method. The rules should consist solely of symptoms that can be observed or identified by the patient to a certain degree prior to laboratory analysis.
+**EHRLICH** is the major course output in an introduction to intelligent systems class. The task is to create an expert system that is able to diagnose at least 10 diseases affecting a particular body system. The knowledge base has to be written in the **logic programming language Prolog**, and the system has to employ **backward chaining** as its primary inference method. The rules should consist solely of symptoms that can be observed or identified by the patient to a certain degree prior to laboratory analysis.
 
 The **15 autoimmune diseases** included in the knowledge base of EHRLICH are as follows: Addison disease, dermatomyositis, Hashimoto thyroiditis, multiple sclerosis, Crohn’s disease, Grave’s disease, myasthenia gravis, pernicious anemia, reactive arthritis, Sjögren syndrome, lupus, rheumatoid arthritis, type I diabetes, celiac disease, and alopecia areata.
 
